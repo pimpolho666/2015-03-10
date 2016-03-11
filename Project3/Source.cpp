@@ -11,7 +11,7 @@ int main()
 		
 		scanf_s("%f", &salario);
 		diferenca = salario / salario_minimo;
-		printf("%.2f\n", diferenca);
+		printf("%.2f\n\n", diferenca);
 
 			system("pause");
 
